@@ -13,7 +13,7 @@ The website include the following pages:
 information
 
 
-This website is built using HTML, CSS, and JavaScript, and should make use of
+This website is built using HTML, CSS, and JavaScript, and make use of
 responsive design techniques to ensure that it looks and functions correctly on a variety of
 devices.
 
