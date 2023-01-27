@@ -1,5 +1,4 @@
-# classix
-Online shopping website. 
+# classix : Online shopping website. 
 
 Deployed Link: https://bimal194.github.io/classix/
 
@@ -17,7 +16,7 @@ This website is built using HTML, CSS, and JavaScript, and make use of
 responsive design techniques to ensure that it looks and functions correctly on a variety of
 devices.
 
-Responsive techniques:
+# Responsive techniques:
 
 1). Add meta information regarding viewport and device-width under ```<head>``` tag
 
