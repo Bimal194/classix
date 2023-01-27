@@ -19,3 +19,13 @@ img{
 h1,h3{
     color:#66BFBF;
 }
+
+
+@media (max-width: 600px){
+
+    p,h1,h3{
+        
+        font-size: 36px;
+        line-height:50px;
+    }
+}
