@@ -389,3 +389,32 @@ header.sticky{
 		left: 0;
 	}
 }
+
+
+@media only screen and (max-width: 500px)
+{
+	
+	.home{
+		min-height: 100%;
+		width: 100%;
+	}
+ 	
+	.home-text h1{
+		font-size: var(--medium-font);
+		font-weight: 800;
+		line-height: 1.2;
+		letter-spacing: .2rem;
+		
+		margin-bottom: 0.4rem; 
+	}
+	.home-text span{
+		font-size: var(--h4-font);
+	}
+	.home-text p{
+		font-size: var(--h6-font);
+		width: 50%;
+		font-weight: 300;
+		margin-bottom: 3rem;
+		letter-spacing: .2rem;
+	} 	
+}
