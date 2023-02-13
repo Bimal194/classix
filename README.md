@@ -35,6 +35,25 @@ devices.
 }
 ```
 
+```
+@media only screen and (max-width: 500px)
+{
+	
+	.home{
+		min-height: 100%;
+		width: 100%;
+	}
+}
+```
+
+
+3). We can also use Bootstrap grid Layout System.
+
+```
+<div class="col-lg-3 col-md-4 col-sm-6">
+...
+</div>
+```
 
 ![11](https://user-images.githubusercontent.com/69100830/215169860-b5481826-33f2-418c-a4ef-816c15dad78a.jpg)
 
